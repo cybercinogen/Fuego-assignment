@@ -1,0 +1,7 @@
+deepface
+opencv-python
+moviepy
+imagehash
+pillow
+matplotlib
+pandas
